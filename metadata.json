@@ -1,0 +1,5 @@
+{
+  "name": "Photo Restore",
+  "description": "An AI-powered tool to restore old, damaged vintage photos to their former glory in high definition. Upload a photo to remove scratches, fix colors, and enhance details.",
+  "requestFramePermissions": []
+}
